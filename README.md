@@ -65,3 +65,18 @@ while True:
     elif user_call == "C":
         print("Current balance is %s THB" % wallet)
 ```
+
+> Mocha : 60
+> Americano : 60
+> Espresso : 70
+> Late : 65
+>> Chankxow your of Late is ready!
+>>Thank you for purchasing!
+> Mocha : 60
+> Americano : 60
+> Espresso : 70
+>Late : 65
+>> Kanom your of Americano is ready!
+>> Thank you for purchasing!
+>>> Current balance is 10125 THB
+>> Bye!
