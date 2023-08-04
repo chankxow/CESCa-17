@@ -2,7 +2,11 @@
 ค่ายเยาวชนวิศวกรรมคอมพิวเตอร์ภาคฤดูร้อนครั้งที่ 17 (CESCa 17)
 
 > #### CESCa17!
-```
+
+
+
+> PORJECT 1 CAFE SHOP PROGRAMMING GROUP B
+```python
 def check_balance(add_money):
     global wallet
     wallet += add_money
