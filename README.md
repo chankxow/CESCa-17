@@ -66,15 +66,15 @@ while True:
         print("Current balance is %s THB" % wallet)
 ```
 
-> Mocha : 60
-> Americano : 60
-> Espresso : 70
-> Late : 65
+Mocha : 60
+Americano : 60
+Espresso : 70
+Late : 65
 >> Chankxow your of Late is ready!
 >>Thank you for purchasing!
-> Mocha : 60
-> Americano : 60
-> Espresso : 70
+Mocha : 60
+Americano : 60
+Espresso : 70
 >Late : 65
 >> Kanom your of Americano is ready!
 >> Thank you for purchasing!
