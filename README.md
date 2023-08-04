@@ -6,6 +6,9 @@
 
 
 > PORJECT 1 CAFE SHOP PROGRAMMING GROUP B
+
+<a href=".cafe.ipynb" >Source Code </a>
+
 ```python
 def check_balance(add_money):
     global wallet
