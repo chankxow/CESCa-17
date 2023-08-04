@@ -7,7 +7,7 @@
 
 > PORJECT 1 CAFE SHOP PROGRAMMING GROUP B
 
-<a href="./CESCa-17/Cafe.ipynb" >Source Code </a>
+## <a href="./Cafe.ipynb" >Source Code </a>
 ```python
 def check_balance(add_money):
     global wallet
