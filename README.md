@@ -2,7 +2,7 @@
 ค่ายเยาวชนวิศวกรรมคอมพิวเตอร์ภาคฤดูร้อนครั้งที่ 17 (CESCa 17)
 
 > #### CESCa17!
-```python
+```ipynb
 def check_balance(add_money):
     global wallet
     wallet += add_money
